@@ -32,3 +32,8 @@ En el terminal del IDE, ingresar el siguiente comando:
 ````
 mvn serenity:aggregate
 ````
+## Datos de Contacto:
+
+**Autor: Herbert Melendez Garcia**
+
+**Linkedin:** www.linkedin.com/in/herb-me-ga
