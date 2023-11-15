@@ -20,7 +20,7 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado lo siguiente:
 1. Teniendo el proyecto en nuestra máquina local, dirigirse al archivo **.feature** principal:
    `D:\Proyectos\ChallengeBaufestWEB\src\test\resources\features\DemoblazeWEB.feature`
 
-2. Modificar las credenciales del usuario **"hector202356789029"** con un valor a conveniencia.
+2. Modificar las credenciales del usuario **"herbert202356789029"** con un valor a conveniencia.
 
 3. Dirigirse al archivo **Runner** y ejecutar la prueba:
    `D:\Proyectos\ChallengeBaufestWEB\src\test\java\runners\DemoblazeRunner.java`
